@@ -112,10 +112,10 @@
    </div> 
 
 <div style=" margin-top: -100px;" class="polygon"> 
-<img src="polygon/polygon1.png" style="float: left; " class="d-inline-block align-top" alt=""><br/><br/>
-<img src="polygon/polygon2.png" style="float: left; " class="d-inline-block align-top" alt="">
-<img src="polygon/polygon2.png" style="float: right; " class="d-inline-block align-top" alt=""><br/><br/>
-<img src="polygon/polygon1.png" style="float: right; " class="d-inline-block align-top" alt="">
+<img src="https://res.cloudinary.com/de8awjxjn/image/upload/v1595353033/Polygon1.png" style="float: left; " class="d-inline-block align-top" alt=""><br/><br/>
+<img src="https://res.cloudinary.com/de8awjxjn/image/upload/v1595353033/Polygon2.png" style="float: left; " class="d-inline-block align-top" alt="">
+<img src="https://res.cloudinary.com/de8awjxjn/image/upload/v1595353033/Polygon2.png" style="float: right; " class="d-inline-block align-top" alt=""><br/><br/>
+<img src="https://res.cloudinary.com/de8awjxjn/image/upload/v1595353033/Polygon1.png" style="float: right; " class="d-inline-block align-top" alt="">
 
 
 </div>
