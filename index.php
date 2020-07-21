@@ -288,7 +288,7 @@
 
 
 
-<script src="scripts/float-panel.js"></script>
+<!--<script src="scripts/float-panel.js"></script>
 
  <script>
 function openNav() {
@@ -298,7 +298,7 @@ function openNav() {
 function closeNav() {
   document.getElementById("mySidenav").style.width = "0";
 }
-</script>
+</script>-->
 </body>
 
 
