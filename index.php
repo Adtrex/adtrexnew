@@ -30,7 +30,7 @@
     	<div style="margin-left: 20px;">
     	<a class="navbar-brand" href="#">
         <span class="icon-rotate">
-    <img src="rectangle.png" width="30" height="30" class="d-inline-block align-top" alt="">
+    <img src="https://res.cloudinary.com/de8awjxjn/image/upload/c_scale,w_17/v1595353106/RECTANGLE.png" width="30" height="30" class="d-inline-block align-top" alt="">
   </span>
     <span class="text-white" style="font-family: 'Roboto', sans-serif;">Ad</span><span class="orange" style="font-family: 'Roboto', sans-serif;">Trex</span>
   </a></div>
@@ -280,7 +280,7 @@
 <div>
   <center>
   <span class="icon-rotate">
-    <img src="rectangle.png" width="30" height="30" class="d-inline-block align-top" alt="">
+    <img src="https://res.cloudinary.com/de8awjxjn/image/upload/c_scale,w_17/v1595353106/RECTANGLE.png" width="30" height="30" class="d-inline-block align-top" alt="">
   </span>
   <p id="copyright">Copyright<span class="orange"> &copy;</span> 2020 <span class="orange">|</span> Adekunte Tolulope</p>
 </center>
