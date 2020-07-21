@@ -204,14 +204,14 @@
 </div>
 
 <div class="about-me container" id="about">
-   <center><h1 class="about-head slideanim" >About Me</h1>
+   <center><h1 class="about-head" >About Me</h1>
 
-   <p class="slideanim" style="text-align: justify;">My name is Adekunte Tolulope and I am the founder of <a href="https://www.techunknown.com" style="color:#F8420B; ">Techunknown</a> (a blog that keeps people updated on latest technology & gadgets) which has over 5000 audience. I have been in the programming world for over 2 years now and have attended various internships such as Hng Internship & start.ng. I have contributed to various projects and presently work with <a href="https://www.webcraddle.com" style="color:#F8420B;">WebCraddle</a> (a team of talented youth) to inspire people in this digital age.</p>
+   <p class="" style="text-align: justify;">My name is Adekunte Tolulope and I am the founder of <a href="https://www.techunknown.com" style="color:#F8420B; ">Techunknown</a> (a blog that keeps people updated on latest technology & gadgets) which has over 5000 audience. I have been in the programming world for over 2 years now and have attended various internships such as Hng Internship & start.ng. I have contributed to various projects and presently work with <a href="https://www.webcraddle.com" style="color:#F8420B;">WebCraddle</a> (a team of talented youth) to inspire people in this digital age.</p>
   </center>
 </div>
 
 <div class="skills container" id="skills">
-<center><h1 class="about-head slideanim">Skills</h1>
+<center><h1 class="about-head ">Skills</h1>
   <div class="container ">
     <center>
   <div class="row">
@@ -224,7 +224,7 @@
       <p>Jquery</p>
       <p>Bootstrap</p>
     </div>
-     <div class="col-sm col-md-4 slideanim">
+     <div class="col-sm col-md-4">
       <i class="fas fa-database orange skills-icon"></i>
       <h1>BackEnd</h1>
       <p>PHP</p>
@@ -237,7 +237,7 @@
       <p>Devops</p>
 
     </div>
-    <div class="col-sm col-md-4 slideanim">
+    <div class="col-sm col-md-4">
       <i class="fas fa-wrench orange skills-icon"></i>
       <h1>Tools</h1>
       <p>Bootstrap</p>
@@ -258,7 +258,7 @@
 <div class=" container" id="contact">
   <center>
     <div class="contact">
-  <h1 class="contact-head slideanim" >Want a website?</h1>
+  <h1 class="contact-head " >Want a website?</h1>
   <hr class="contact-hr">
   <div style="margin-top: 30px; margin-bottom: 30px;">
   <p>I would build an amazing website for you</p>
@@ -266,7 +266,7 @@
 </div>
 </div>
 
-  <h1 class="contact-head slideanim">Let's connect</h1>
+  <h1 class="contact-head ">Let's connect</h1>
   <hr class="contact-hr">
   <a class="orange font-icon" href="https://www.github.com/adtrex"><i class="fab fa-github"></i></a>
   <a class="orange font-icon" href="https://www.instagram.com/adtrex_dev"><i class="fab fa-instagram"></i></a>
