@@ -210,9 +210,9 @@
   </center>
 </div>
 
-<div class="skills container" id="skills">
+<div class="skills containe" id="skills">
 <center><h1 class="about-head ">Skills</h1>
-  <div class="container ">
+  <div class="containe ">
     <center>
   <div class="row">
     <div class="col-sm col-md-4 slideanim">
